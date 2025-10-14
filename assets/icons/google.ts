@@ -1,0 +1,1 @@
+export const googleIcon = require('../../assets/icons/google.png'); // You'll need to add the actual Google icon image 

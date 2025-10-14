@@ -1,8 +1,14 @@
 {
   "expo": {
-    "scheme": "acme",
+    "scheme": "journal",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "sounds": ["default"]
+        }
+      ]
     ],
     "name": "JOURNAL",
     "slug": "JOURNAL"
